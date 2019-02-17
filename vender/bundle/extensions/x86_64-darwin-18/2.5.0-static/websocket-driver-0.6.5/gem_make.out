@@ -1,0 +1,15 @@
+current directory: /Users/yugo/Dropbox/アプリ制作/Ruby_on_Rails/Railstutorial_5.1/environment/toy_app/vender/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/yugo/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20190217-15098-zz4f05.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yugo/Dropbox/アプリ制作/Ruby_on_Rails/Railstutorial_5.1/environment/toy_app/vender/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/yugo/Dropbox/アプリ制作/Ruby_on_Rails/Railstutorial_5.1/environment/toy_app/vender/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/yugo/Dropbox/アプリ制作/Ruby_on_Rails/Railstutorial_5.1/environment/toy_app/vender/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20190217-15098-ibnc01
